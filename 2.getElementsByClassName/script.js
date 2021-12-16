@@ -8,4 +8,6 @@ console.log(element)
 
 
 // getElementsByTag
+
+//Retorna também um objeto do tipo HTMLCollection
 console.log(document.getElementsByTagName('meta'))
